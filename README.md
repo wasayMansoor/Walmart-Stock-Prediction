@@ -1,4 +1,4 @@
-# Walmart Stock Prediction
+# Walmart Stock Analysis
 
 ## Overview
 
